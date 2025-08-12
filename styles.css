@@ -26,7 +26,7 @@
 body, html {
     margin: 0;
     padding: 10px;
-    background: var(--background);
+    background: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW04cnp1d2lmMzUxZ3poenk0YWIzd204dGIxb3FuOXZ5ZmZ3MGVneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kyLYXonQYYfwYDIeZl/giphy.gif');
     color: var(--text);
     font-family: var(--font);
 }
